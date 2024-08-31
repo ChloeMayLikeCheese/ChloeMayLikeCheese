@@ -1,4 +1,4 @@
-[![](https://github-readme-stats.vercel.app/api?username=ChloeMayLikeCheese)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=ChloeMayLikeCheese&?theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ChloeMayLikeCheese/ChloeMayLikeCheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
