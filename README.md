@@ -1,6 +1,6 @@
 ![Chloe's Github stats](https://github-readme-stats.vercel.app/api?username=ChloeMayLikeCheese&theme=omni&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeMayLikeCheese&layout=donut-vertical&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-<figure><embed src="https://wakatime.com/share/@ChloeMayLikeCheese/8d9d7400-7bfe-4714-9a4e-318407ad14a2.svg"></embed></figure>
+[![Chloe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChloeMayLikeCheese)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ChloeMayLikeCheese/ChloeMayLikeCheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
